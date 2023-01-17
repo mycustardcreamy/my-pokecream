@@ -16,9 +16,9 @@ A website pokedex for all your Pokemon needs.
 2. Start searching for your favorite Pokemon!
 
 ## Demo 📝
-You can check out a live demo of the website [here](https://mycustardcreamy.github.io/my-pokecream/)
+You can check out a live demo of the website [here](https://mycustardcreamy.github.io/my-pokecream)
 
-[![HaXMPBj.md.png](https://iili.io/HaXMPBj.md.png)](https://freeimage.host/i/HaXMPBj)
+![image-of-my-site](https://user-images.githubusercontent.com/120729872/212936912-9c947906-ac4f-4e16-b27e-36a8d84d8578.png)
 
 ## Contributing 🤝
 We welcome contributions to My PokeCream. If you would like to make a change, please open a pull request with a detailed explanation of your changes.
