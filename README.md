@@ -1,4 +1,4 @@
-# My PokeCream 🍦🐱
+# My PokeCream 🍮⚡️
 A website pokedex for all your Pokemon needs.
 
 ## Features 🔎
@@ -7,7 +7,7 @@ A website pokedex for all your Pokemon needs.
 - Browse Pokemon by generation and region
 
 ## Installation 🛠
-1. Clone the repository: `git clone https://github.com/mycustardcreamy/MyPokeCream.git`
+1. Clone the repository: `git clone https://github.com/mycustardcreamy/my-pokecream.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
@@ -25,7 +25,7 @@ My PokeCream is licensed under the MIT license. See [LICENSE](LICENSE) for more 
 My PokeCream uses data from the [Pokemon API](https://pokeapi.co/).
 
 ## Contact 📞
-For any questions or issues, please open an issue on the [GitHub repository](https://github.com/mycustardcreamy/MyPokeCream) or contact [Custard Cream](mycustardcreamy@gmail.com)
+For any questions or issues, please open an issue on the [GitHub repository](https://github.com/mycustardcreamy/my-pokecream.git) or contact [Custard Cream](mycustardcreamy@gmail.com)
 
 ## Disclaimer ❗
 My PokeCream is a fan-made website and is not affiliated with or endorsed by Nintendo or Game Freak.
